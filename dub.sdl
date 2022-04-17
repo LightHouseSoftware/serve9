@@ -1,0 +1,6 @@
+name "serve9"
+description "Simple tool for sharing folders via 9P/Styx"
+authors "aquareji"
+copyright "Copyright © 2022, aquareji"
+license "ESL 1.0"
+dependency "styx2000" version="~>1.0.0"

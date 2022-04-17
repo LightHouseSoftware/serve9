@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/serve9
+serve9.so
+serve9.dylib
+serve9.dll
+serve9.a
+serve9.lib
+serve9-test-*
+*.exe
+*.o
+*.obj
+*.lst
